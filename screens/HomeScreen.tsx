@@ -1,3 +1,10 @@
+// Code Atrributes:
+// Author: w3schools
+// Title: Typescript
+// Date published: Copyright 1999-2025
+// Link: https:/www.w3schools.com/typescript/
+// Date accessed: 2025/11/10
+
 import React from "react";
 import { Alert, FlatList, Image, SafeAreaView, StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import { NativeStackScreenProps } from "@react-navigation/native-stack";

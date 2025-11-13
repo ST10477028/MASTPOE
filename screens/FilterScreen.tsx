@@ -1,3 +1,10 @@
+// Code Atrributes:
+// Author: w3schools
+// Title: Typescript
+// Date published: Copyright 1999-2025
+// Link: https:/www.w3schools.com/typescript/
+// Date accessed: 2025/11/10
+
 import React, { useMemo, useState } from "react";
 import { FlatList, Image, SafeAreaView, StyleSheet, Text, View } from "react-native";
 import { Picker } from "@react-native-picker/picker";

@@ -1,3 +1,10 @@
+// Code Atrributes:
+// Author: w3schools
+// Title: Typescript
+// Date published: Copyright 1999-2025
+// Link: https:/www.w3schools.com/typescript/
+// Date accessed: 2025/11/10
+
 import { useState } from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";

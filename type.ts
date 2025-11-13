@@ -1,3 +1,10 @@
+// Code Atrributes:
+// Author: w3schools
+// Title: Typescript
+// Date published: Copyright 1999-2025
+// Link: https:/www.w3schools.com/typescript/
+// Date accessed: 2025/11/10
+
 export type Course= "STARTER" | "MAIN"| "DESSERT";
 
 export type menuItem={
